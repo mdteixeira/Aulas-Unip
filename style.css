@@ -1,0 +1,28 @@
+/* Estiliza o HTML */
+html {
+    background-color: #303030;
+}
+
+/* Configurações global do documento */
+* {
+    color: white;
+    font-family: arial;
+}
+
+/* Estilo do botão */
+button {
+    background: #000;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}   
+
+/* Quando o mouse está sobre o botão */
+button:hover {
+    background: #202020;
+}
+
+/* Quando o botão é pressionado */
+button:active {
+    background: #151515;
+}
